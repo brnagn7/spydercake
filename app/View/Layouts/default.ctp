@@ -24,9 +24,9 @@
         <span class="icon-bar"></span>
       </button>	
       <a class="navbar-brand" href="/">
-				<i class="fa fa-user-secret"></i>
-				<img src="img/spydergreen.png" alt="Spydergreen" />
-</a>    </div>
+    <img src="img/spyderdrop.png"
+    style="position:absolute;top:31px;"></a></a>
+    </div>
     <div class="collapse navbar-collapse" id="main-nav-collapse">
       <ul class="nav navbar-nav navbar-right">
           <a class="btn btn-primary navbar-btn" data-method="get" href="/users/sign_in">Log In</a>

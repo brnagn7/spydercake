@@ -109,3 +109,12 @@ CakeLog::config('error', array(
 	'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
 	'file' => 'error',
 ));
+
+/**
+* Cakephp Gallery
+*/
+CakePlugin::load(array(
+	'Gallery' => array(
+	'bootstrap' => true,
+	'routes' => true
+)));

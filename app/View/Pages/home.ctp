@@ -1,8 +1,13 @@
 <div class="container">
-<div class="jumbotron"> 
-<h1 align="center">Grains of Wheat</h1>
-<h3 align="center">Bringing forth much fruit</h3>
-</div>
+  <div style="position:relative;height:190px;">
+    <img src="img/eddieSketch.jpg" 
+    style="position:absolute;top:130px;left:-30px;width:100px;height:140px;z-index:-30">
+  </div>
+<table>
+  <tr>
+    <td></td>
+    <td><img src="img/title.png"></td></tr>
+</table>
 <div class="col-md-4">
 <div class="panel panel-primary" style="max-width: 400px;">
 <div class="panel-heading">
